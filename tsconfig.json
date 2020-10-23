@@ -3,5 +3,6 @@
   "compilerOptions": {
     "baseUrl": ".",
     "experimentalDecorators": true
-  }
+  },
+  "exclude": ["src-electron"]
 }
