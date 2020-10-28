@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cat Coding</title>
+
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900|Material+Icons"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link href="https://cdn.jsdelivr.net/npm/quasar@1.14.2/dist/quasar.min.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="https://cdn.jsdelivr.net/npm/vue@^2.0.0/dist/vue.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/quasar@1.14.2/dist/quasar.umd.min.js"></script>
+
+    <div id="q-app">
+      <q-layout view="hHh lpR fFf">
+        <q-drawer show-if-above v-model="right" side="right" bordered>
+          <!-- drawer content -->
+        </q-drawer>
+
+        <q-page-container>
+          <q-page style="padding-top: 60px" class="q-pa-md">
+            <p v-for="n in 15" :key="n">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit nihil praesentium molestias a adipisci,
+              dolore vitae odit, quidem consequatur optio voluptates asperiores pariatur eos numquam rerum delectus
+              commodi perferendis voluptate?
+            </p>
+
+            <q-page-sticky position="top-left" :offset="[18, 68]">
+              <q-btn round color="primary" icon="arrow_back" class="rotate-45" />
+            </q-page-sticky>
+            <q-page-sticky position="top-right" :offset="[18, 68]">
+              <q-btn round color="primary" icon="arrow_upward" class="rotate-45" />
+            </q-page-sticky>
+            <q-page-sticky position="bottom-left" :offset="[18, 18]">
+              <q-btn round color="primary" icon="arrow_forward" class="rotate-135" />
+            </q-page-sticky>
+            <q-page-sticky position="bottom-right" :offset="[18, 18]">
+              <q-btn round color="primary" icon="arrow_forward" class="rotate-45" />
+            </q-page-sticky>
+
+            <q-page-sticky position="top" expand class="bg-accent text-white">
+              <q-toolbar>
+                <q-btn flat round dense icon="map" />
+                <q-toolbar-title>Title</q-toolbar-title>
+              </q-toolbar>
+            </q-page-sticky>
+          </q-page>
+
+          <q-page-scroller position="bottom">
+            <q-btn fab icon="keyboard_arrow_up" color="red" />
+          </q-page-scroller>
+        </q-page-container>
+      </q-layout>
+    </div>
+
+    <script>
+      /*
+        Example kicking off the UI. Obviously, adapt this to your specific needs.
+        Assumes you have a <div id="q-app"></div> in your <body> above
+       */
+      new Vue({
+        el: '#q-app',
+        data: function () {
+          return {
+            right: false,
+          };
+        },
+        methods: {},
+      });
+    </script>
+  </body>
+</html>
