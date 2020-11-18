@@ -17,11 +17,9 @@ export function activate(context: vscode.ExtensionContext) {
   let disposable = vscode.commands.registerCommand('extension.sitepackage-devtool-open', () => {
     // The code you place here will be executed every time your command is executed
 
-    const indexHtmlUri = vscode.Uri.file(path.join(context.extensionPath, 'src/index.html'));
+    const indexHtmlUri = vscode.Uri.file(path.join(context.extensionPath, 'out/app/index.html'));
+    const appPath = vscode.Uri.file(path.join(context.extensionPath, 'out/app'));
 
-    console.log(vscode.workspace.name);
-    console.log(context.globalState);
-    // console.log(context.storagePath, context.storageUri);
     // console.log(context.globalStoragePath, context.globalStorageUri);
 
     // Display a message box to the user
@@ -34,7 +32,11 @@ export function activate(context: vscode.ExtensionContext) {
       }, // Webview options. More on these later.
     );
 
-    panel.webview.html = fs.readFileSync(indexHtmlUri.fsPath, 'utf8');
+    const publicPath = panel.webview.asWebviewUri(appPath).toString();
+    const content = fs.readFileSync(indexHtmlUri.fsPath, 'utf8').replace(/\[PublicPath\]/g, publicPath)
+    console.log(publicPath)
+    console.log(content);
+    panel.webview.html = content;
   });
 
   context.subscriptions.push(disposable);

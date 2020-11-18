@@ -1,0 +1,14 @@
+{
+  "extends": "@quasar/app/tsconfig-preset",
+  "compilerOptions": {
+    "newLine": "lf",
+    // "noUnusedParameters": true,
+    "noUnusedLocals": true,
+    "experimentalDecorators": true,
+    "baseUrl": ".",
+    "allowSyntheticDefaultImports": true,
+    "types": ["quasar", "webpack-env"],
+    "typeRoots": ["src/@types"]
+  },
+  "exclude": ["node_modules"]
+}
