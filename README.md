@@ -1,65 +1,105 @@
-# sitepackage-vscode-devtool README
+*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
-This is the README for your extension "sitepackage-vscode-devtool". After writing up a brief description, we recommend including the following sections.
+---
 
-## Features
+# svelte app
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
-For example if there is an image subfolder under your extension project workspace:
+To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
-\!\[feature X\]\(images/feature-x.png\)
+```bash
+npx degit sveltejs/template svelte-app
+cd svelte-app
+```
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+*Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
-## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+## Get started
 
-## Extension Settings
+Install the dependencies...
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+```bash
+cd svelte-app
+npm install
+```
 
-For example:
+...then start [Rollup](https://rollupjs.org):
 
-This extension contributes the following settings:
+```bash
+npm run dev
+```
 
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
+Navigate to [localhost:5000](http://localhost:5000). You should see your app running. Edit a component file in `src`, save it, and reload the page to see your changes.
 
-## Known Issues
+By default, the server will only respond to requests from localhost. To allow connections from other computers, edit the `sirv` commands in package.json to include the option `--host 0.0.0.0`.
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+If you're using [Visual Studio Code](https://code.visualstudio.com/) we recommend installing the official extension [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode). If you are using other editors you may need to install a plugin in order to get syntax highlighting and intellisense.
 
-## Release Notes
+## Building and running in production mode
 
-Users appreciate release notes as you update your extension.
+To create an optimised version of the app:
 
-### 1.0.0
+```bash
+npm run build
+```
 
-Initial release of ...
+You can run the newly built app with `npm run start`. This uses [sirv](https://github.com/lukeed/sirv), which is included in your package.json's `dependencies` so that the app will work when you deploy to platforms like [Heroku](https://heroku.com).
 
-### 1.0.1
 
-Fixed issue #.
+## Single-page app mode
 
-### 1.1.0
+By default, sirv will only respond to requests that match files in `public`. This is to maximise compatibility with static fileservers, allowing you to deploy your app anywhere.
 
-Added features X, Y, and Z.
+If you're building a single-page app (SPA) with multiple routes, sirv needs to be able to respond to requests for *any* path. You can make it so by editing the `"start"` command in package.json:
 
------------------------------------------------------------------------------------------------------------
+```js
+"start": "sirv public --single"
+```
 
-## Working with Markdown
+## Using TypeScript
 
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+This template comes with a script to set up a TypeScript development environment, you can run it immediately after cloning the template with:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+```bash
+node scripts/setupTypeScript.js
+```
 
-### For more information
+Or remove the script via:
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+```bash
+rm scripts/setupTypeScript.js
+```
 
-**Enjoy!**
+## Deploying to the web
+
+### With [Vercel](https://vercel.com)
+
+Install `vercel` if you haven't already:
+
+```bash
+npm install -g vercel
+```
+
+Then, from within your project folder:
+
+```bash
+cd public
+vercel deploy --name my-project
+```
+
+### With [surge](https://surge.sh/)
+
+Install `surge` if you haven't already:
+
+```bash
+npm install -g surge
+```
+
+Then, from within your project folder:
+
+```bash
+npm run build
+surge public my-project.surge.sh
+```

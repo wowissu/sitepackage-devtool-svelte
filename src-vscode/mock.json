@@ -1,0 +1,7016 @@
+{
+  "WebsitePatternList": [
+    {
+      "ID": 1,
+      "Name": "AdamDefault",
+      "Enable": true
+    },
+    {
+      "ID": 2,
+      "Name": "AnsonDefault",
+      "Enable": true
+    },
+    {
+      "ID": 3,
+      "Name": "AmyDefault",
+      "Enable": true
+    },
+    {
+      "ID": 4,
+      "Name": "AmyLight",
+      "Enable": false
+    },
+    {
+      "ID": 5,
+      "Name": "AlexDefault",
+      "Enable": true
+    },
+    {
+      "ID": 6,
+      "Name": "AdiDefault",
+      "Enable": true
+    }
+  ],
+  "GamePlatformCategoryList": [
+    {
+      "GamePlatform": 2,
+      "GameCategory": 1
+    },
+    {
+      "GamePlatform": 2,
+      "GameCategory": 2
+    },
+    {
+      "GamePlatform": 2,
+      "GameCategory": 4
+    },
+    {
+      "GamePlatform": 2,
+      "GameCategory": 7
+    },
+    {
+      "GamePlatform": 3,
+      "GameCategory": 1
+    },
+    {
+      "GamePlatform": 3,
+      "GameCategory": 2
+    },
+    {
+      "GamePlatform": 3,
+      "GameCategory": 3
+    },
+    {
+      "GamePlatform": 3,
+      "GameCategory": 4
+    },
+    {
+      "GamePlatform": 3,
+      "GameCategory": 7
+    },
+    {
+      "GamePlatform": 4,
+      "GameCategory": 4
+    },
+    {
+      "GamePlatform": 5,
+      "GameCategory": 2
+    },
+    {
+      "GamePlatform": 5,
+      "GameCategory": 7
+    },
+    {
+      "GamePlatform": 6,
+      "GameCategory": 3
+    },
+    {
+      "GamePlatform": 7,
+      "GameCategory": 6
+    },
+    {
+      "GamePlatform": 8,
+      "GameCategory": 4
+    },
+    {
+      "GamePlatform": 9,
+      "GameCategory": 2
+    },
+    {
+      "GamePlatform": 9,
+      "GameCategory": 7
+    },
+    {
+      "GamePlatform": 10,
+      "GameCategory": 5
+    },
+    {
+      "GamePlatform": 11,
+      "GameCategory": 1
+    },
+    {
+      "GamePlatform": 11,
+      "GameCategory": 2
+    },
+    {
+      "GamePlatform": 12,
+      "GameCategory": 1
+    },
+    {
+      "GamePlatform": 13,
+      "GameCategory": 2
+    },
+    {
+      "GamePlatform": 14,
+      "GameCategory": 3
+    },
+    {
+      "GamePlatform": 15,
+      "GameCategory": 2
+    },
+    {
+      "GamePlatform": 16,
+      "GameCategory": 2
+    },
+    {
+      "GamePlatform": 17,
+      "GameCategory": 6
+    },
+    {
+      "GamePlatform": 18,
+      "GameCategory": 6
+    },
+    {
+      "GamePlatform": 19,
+      "GameCategory": 6
+    },
+    {
+      "GamePlatform": 20,
+      "GameCategory": 1
+    },
+    {
+      "GamePlatform": 21,
+      "GameCategory": 6
+    },
+    {
+      "GamePlatform": 22,
+      "GameCategory": 3
+    },
+    {
+      "GamePlatform": 23,
+      "GameCategory": 1
+    },
+    {
+      "GamePlatform": 24,
+      "GameCategory": 3
+    },
+    {
+      "GamePlatform": 25,
+      "GameCategory": 1
+    }
+  ],
+  "GamePlatformList": [
+    {
+      "ID": 2,
+      "Key": "AG"
+    },
+    {
+      "ID": 3,
+      "Key": "BBIN"
+    },
+    {
+      "ID": 4,
+      "Key": "SABA"
+    },
+    {
+      "ID": 5,
+      "Key": "IMPT"
+    },
+    {
+      "ID": 6,
+      "Key": "RgLottery"
+    },
+    {
+      "ID": 7,
+      "Key": "RgBoard"
+    },
+    {
+      "ID": 8,
+      "Key": "FastBet"
+    },
+    {
+      "ID": 9,
+      "Key": "PS"
+    },
+    {
+      "ID": 10,
+      "Key": "AVIA"
+    },
+    {
+      "ID": 11,
+      "Key": "EG"
+    },
+    {
+      "ID": 12,
+      "Key": "IBO"
+    },
+    {
+      "ID": 13,
+      "Key": "KA"
+    },
+    {
+      "ID": 14,
+      "Key": "KK"
+    },
+    {
+      "ID": 15,
+      "Key": "MgPlus"
+    },
+    {
+      "ID": 16,
+      "Key": "PG"
+    },
+    {
+      "ID": 17,
+      "Key": "LC"
+    },
+    {
+      "ID": 18,
+      "Key": "NWG"
+    },
+    {
+      "ID": 19,
+      "Key": "RMG"
+    },
+    {
+      "ID": 20,
+      "Key": "SA"
+    },
+    {
+      "ID": 21,
+      "Key": "TM"
+    },
+    {
+      "ID": 22,
+      "Key": "VR"
+    },
+    {
+      "ID": 23,
+      "Key": "WM"
+    },
+    {
+      "ID": 24,
+      "Key": "CrPati"
+    },
+    {
+      "ID": 25,
+      "Key": "EVO"
+    }
+  ],
+  "GameCategoryList": [
+    {
+      "ID": 1,
+      "Key": "Live"
+    },
+    {
+      "ID": 2,
+      "Key": "Slot"
+    },
+    {
+      "ID": 3,
+      "Key": "Lottery"
+    },
+    {
+      "ID": 4,
+      "Key": "Sport"
+    },
+    {
+      "ID": 5,
+      "Key": "Gaming"
+    },
+    {
+      "ID": 6,
+      "Key": "Chess"
+    },
+    {
+      "ID": 7,
+      "Key": "Fishing"
+    }
+  ],
+  "SlotGameList": [
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG156",
+      "GameCategory": 2,
+      "Enable": false
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG158",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG160",
+      "GameCategory": 2,
+      "Enable": false
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG161",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG162",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG166",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG168",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG169",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG200",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG201",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG202",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG203",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG204",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG205",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG206",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG207",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG208",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG209",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG210",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG211",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG212",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG215",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG221",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG501",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG502",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG503",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG504",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG505",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG507",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG508",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG509",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG510",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG511",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG512",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG513",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG514",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG515",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG516",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG517",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG518",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG519",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG520",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG521",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG522",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG523",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG524",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG525",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG526",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG527",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG528",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG529",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG530",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG531",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG532",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG533",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG534",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG535",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG536",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG537",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG539",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG540",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG541",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG544",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG545",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG546",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG547",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG548",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG549",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG550",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG802",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AG804",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGEP02",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGEP03",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGSB56",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGSB59",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGSB60",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGSB62",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGSB63",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGSB64",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGSC06",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGSC07",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGSLM6",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGTG04",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWC01",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWC02",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH01",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH02",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH03",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH04",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH06",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH07",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH10",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH11",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH12",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH17",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH18",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH19",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH20",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH21",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH22",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH23",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH24",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH25",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH26",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH27",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH28",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH29",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH30",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH31",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH32",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH34",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH35",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH36",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH38",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH40",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH42",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH44",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH48",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH49",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH52",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH54",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH55",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH56",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH62",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH65",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWH70",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGWHGWA01",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP801",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP802",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP803",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP804",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP805",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP806",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP807",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP808",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP810",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP811",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP813",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP814",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP817",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP818",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP820",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP821",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP822",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP823",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP824",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP825",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP826",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP827",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP828",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP830",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP831",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP832",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP833",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP834",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP835",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP836",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP837",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP838",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP839",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP840",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP841",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP842",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP843",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 2,
+      "GameCode": "AGYP844",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55005",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55010",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55012",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55013",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55014",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55015",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55019",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55027",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55030",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55039",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55043",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55044",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55045",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55046",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55054",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55057",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55058",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55061",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55062",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55063",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55064",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55065",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55066",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55067",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55068",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55069",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55076",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55077",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55079",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55080",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55083",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55084",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55088",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55089",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55090",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55093",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55094",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55095",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55096",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55097",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55098",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55099",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55100",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55105",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55106",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55107",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55108",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55109",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55110",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55119",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55120",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55121",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55122",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55123",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55125",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55126",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55127",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55128",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55138",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55139",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55140",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55141",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55142",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55143",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55144",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55145",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55146",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55150",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55151",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55152",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55153",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55154",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55155",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55156",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55157",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55159",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55160",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55161",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55162",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55163",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55165",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55166",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55167",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55168",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55169",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55170",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55171",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55173",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55174",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55178",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55204",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55402",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55404",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55407",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55601",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55803",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55805",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55810",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55823",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55824",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55828",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55835",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55837",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55839",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55901",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55902",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55903",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55904",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55907",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55908",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55909",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55910",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB55912",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB3030598",
+      "GameCategory": 7,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB3030599",
+      "GameCategory": 7,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 3,
+      "GameCode": "BB3838001",
+      "GameCategory": 7,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTpopc",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTpst",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTqnw",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTqrol",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTririjc",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTririshc",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTrky",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTrodzl",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTrofl",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTrol",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTsamz",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTsfh",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTshmst",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTsib",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTsis",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTslion",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTsol",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTspud",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTssp",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTswl",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTsx",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTthtk",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTtigc",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTtmqd",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTtopg",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTtpd2",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTtrpmnk",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTttc",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTvcstd",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTwhk",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTwis",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTwlcsh",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTwlg",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTwotp",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTxufe",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTyclong",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTzcjb",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTzcjbjp",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTzctz",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTzeus",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTpop_shctz_ab_jp_skw",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTpop_sw_ar_skw",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTpop_sw_dr_skw",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTpop_sw_fr_skw",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTpop_sw_rm_ab_jp_skw",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTpop_sw_rr_skw",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTpop_sw_wrl_skw",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTpop_sw_yxlb_skw",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTpop_sw_jqw_ab_jp_skw",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTpop_sw_mr_skw",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPT7bal",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTaeolus",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTanwild",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTaogs",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTarc",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTasfa",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTashadv",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTashamw",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTashbob",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTashcpl",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTashfmf",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTashfta",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTashhof",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTashhotj",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTashicv",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTashsbd",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTashtmd",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTashwgaa",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTathn",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTaztec",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTbal",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTbfb",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTbib",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTbl",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTbob",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTbs",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTbt",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTc7",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTcatqc",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTccccny",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTchao",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTchel",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTchl",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTcm",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTcnpr",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTcspljpt",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTct",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTctiv",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTdcv",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTdlm",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTdnr",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTdonq",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTdrgch",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTdt",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTeas",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTepa",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTer",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTesmk",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTfbr",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTfcgz",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTfday",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTfdt",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTfdtjg",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTfff",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTfkmj",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTfm",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTfmjp",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTfmn",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTfnfrj",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTfow",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTfoy",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTfrtf",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTfrtln",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTftg",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTftsis",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTfurf",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTfxf",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgemq",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTges",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTght_a",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTglg",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTglrj",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgos",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgpas_dbond_pop",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgpas_elady_pop",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgpas_fatchoy_pop",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgpas_fiesta_pop",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgpas_jflong_pop",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgpas_lotj_pop",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgpas_panthpays_pop",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgpas_rothr_pop",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgpas_satsumo_pop",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgpas_scqueen_pop",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgpas_sjungle_pop",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgpas_squeen_pop",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgpas_tigertdp_pop",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgpas_xjinfu_pop",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgrbjp",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgrel",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgro",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgts50",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgts52",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgtsatq",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgtscbl",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgtsdgk",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgtsdrdv",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgtsfc",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgtsflzt",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgtsgme",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgtsir",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgtsirl",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgtsje",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgtsjxb",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgtsjzc",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgtsmrln",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgtspor",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgtsrng",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgtssmbr",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgtsswk",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgtswg",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTgtswng",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPThb",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTheavru",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPThh",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPThilol",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPThk",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPThlf",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPThlf2",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPThotktv",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPThrcls",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPThuhl",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTjnglg",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTjpgt",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTjqw",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTkfp",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTkkg",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTlegwld",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTljxy",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTlm",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTlndg",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTlonglong",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTlvb",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTmcb",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTmfrt",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTmgstk",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTnc_bal",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTnian",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTnk",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTpaw",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTpgv",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTphot",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTphtd",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTpisa",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTpmn",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTpnp",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTpop_a3250b6e_skw",
+      "GameCategory": 7,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTpop_sw_or_skw",
+      "GameCategory": 7,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTpop_swfufishintw_skw",
+      "GameCategory": 7,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTpop_swfufishjp_skw",
+      "GameCategory": 7,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 5,
+      "GameCode": "IMPTpop_sw_fufarm_skw",
+      "GameCategory": 7,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSB-ON-00001-1",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSB-ON-00001-7",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00001",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00002",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00003",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00004",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00005",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00006",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00007",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00008",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00009",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00010",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00011",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00012",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00013",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00014",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00015",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00016",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00017",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00018",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00019",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00020",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00021",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00022",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00023",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00024",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00025",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00026",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00027",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00028",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00029",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00030",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00031",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00032",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00033",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00034",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00035",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00036",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00037",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00038",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00039",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00040",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00041",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00042",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00043",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00044",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00045",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00046",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00047",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00048",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00049",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00050",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00051",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00054",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00055",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00056",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00057",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00058",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00059",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00060",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00061",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00062",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00063",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00064",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00065",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00066",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00067",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00068",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00069",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00070",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00071",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00072",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00073",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00074",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00075",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00076",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00077",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00078",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00079",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00080",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00081",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00083",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00084",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00085",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00086",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00087",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00088",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00089",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00090",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00091",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00092",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00093",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00094",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00095",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00096",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00097",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00098",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00099",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00101",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00102",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00103",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00104",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00105",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00106",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00107",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00108",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00109",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00110",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00111",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00112",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00114",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00115",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSS-ON-00123",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSTM-ON-00001",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSTM-ON-00002",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSF-ON-00001",
+      "GameCategory": 7,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 9,
+      "GameCode": "PSPSF-ON-00002",
+      "GameCategory": 7,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 11,
+      "GameCode": "EGblackjack",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 11,
+      "GameCode": "EGcandy",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 11,
+      "GameCode": "EGdiamonds",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 11,
+      "GameCode": "EGdice",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 11,
+      "GameCode": "EGfighter",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 11,
+      "GameCode": "EGfish",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 11,
+      "GameCode": "EGgrave",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 11,
+      "GameCode": "EGhamster",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 11,
+      "GameCode": "EGmonkey",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 11,
+      "GameCode": "EGopera",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 11,
+      "GameCode": "EGrich",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 11,
+      "GameCode": "EGsnow",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 11,
+      "GameCode": "EGtank",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KA777Vegas",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAAfricaRun",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAAirCombat1942",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAAliceInWonderland",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAAnimalFishing",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAApes",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAAres",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAArtistStudio",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAAurora",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KABaccarat",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KABakery",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KABaWangBieJi",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KABombingFruit",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KABonusMania",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KABoxingRoo",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KABoyToys",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KABubbleDouble",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KABullStampede",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KACaiYuanGuangJin",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KACandyStorm",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KACatchTheThief",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAChineseOpera",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAChineseValentinesDay",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAChiYou",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KACinderella",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KACocorico",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KACowboys",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KACrazyCircus",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KACuJu",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KADaVinci",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KADayOfDead",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KADeepSea",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KADimSum",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KADonQuixote",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KADragonBall",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KADragonBoat",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KADragonGate",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KADragonsLegend",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KADragonsWay",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KADreamcatcher",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KADrGeek",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAEgypt",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAEgyptianEmpress",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAEgyptianMythology",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAEmoji",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAEnchanted",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAErlangShen",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAFairyDust",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAFantasy777",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAFantasyPark",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAFastBlast",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAFastbreak",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAFireDragons",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAFishingExpedition",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAFlaming7",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAFlowersFruitMountain",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAFluffyBuddy",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAFormosanBirds",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAFortuneGod",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAFortuneLions",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAFortunePiggyBank",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAFourBeauties",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAFourScholars",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAFrankenstein",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAFruitParty",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAGem",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAGenghisKhan",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAGiants",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAGlacialEpoch",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAGoldenBall",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAGoldenDragon",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAGoldenShanghai",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAGoldMagic",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAGoldRush",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAGreatVoyages",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAHappyFarm",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAHengandHa",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAHoneyMoney",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAHoroscope",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAHouYi",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAHuaMulan",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAImperialGirls",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAImperialGuards",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAJellyMania",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAJokerSlot",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAJourneyToWest",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAJungle",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAKAFishHunter",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAKingOctopus",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAKitty",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAKnights",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAKungFu",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KALandOfGold",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KALastFantasy",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KALeagueOfGods",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KALegendOfPaladin",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KALeprechauns",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KALionDance",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KALiveStreamingStar",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KALostRealm",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KALotusLamp",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KALoungeClub",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KALuck88",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KALuckyPenguins",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KALuxuryGarage",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAMahjong",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAMayanGold",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAMedalWinner",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAMermaid",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAMexicaliente",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAMillionaires",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAMissTiger",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAMoonGoddess",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAMuscleCars",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAMushrooms",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAMythic",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KANeanderthals",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KANezha",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KANian",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KANineLucks",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KANutcracker",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KANvwa",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAOriginOfFire",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAPandora",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAPartyGirl",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAPartyGirlWays",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAPeterPan",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAPinocchio",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAPirate",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAPirateKing",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAPolynesian",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAPoseidon",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAPrimevalForest",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAQuadrupleDragons",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAQuickPlayCandy",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAQuickPlayJewels",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAQuickPlayMahjong",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KARarities",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KARedBoy",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KARedRidingHood",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KARichSquire",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KARobots",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KARoute66",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KARoyalDemeanor",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KASafari",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KASamurai",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KASevenHeroines",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KASevenWonders",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAShoppingFiend",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KASiberianWolves",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KASilkRoad",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KASnowLeopards",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KASNS",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KASpace",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KASpaceCat",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KASpaceStorm",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KASpeakeasy",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KASpeed",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAStockedBar",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAStonehenge",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KASuperBonusMania",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KASuperKeno",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KASuperShot",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KASuperShot2",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KASuperVideoPoker",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KATaiChi",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KATaiwanBlackBear",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KATao",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KATheGrandmaster",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAThirstyCrow",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAThreeGods",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAThreeHeroes",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAThreeKingdoms",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAThreeLittlePigs",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KATRex",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KATripleDragons",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAUFO",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAVampire",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAVeggiesPlot",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAViking",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAVolcanoAdventure",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAWencheng",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAWhiteSnakeLegend",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAWildAlaska",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAWildVick",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAWildWildBell",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAWizardry",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAWolfWarrior",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAWuGang",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAXBomber",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAXElements",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAYamato",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAYuGong",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAYunCaiTongZi",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAZombieLand",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 13,
+      "GameCode": "KAZorro",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "Launchpad",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_108Heroes",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_108heroesMultiplierFortunes",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_5ReelDrive",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_acesAndEights",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_acesAndFaces",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_actionOpsSnowAndSable",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_adventurePalace",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_agentJaneBlonde",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_agentjaneblondereturns",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_ageOfDiscovery",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_alaskanFishing",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_americanRouletteGold",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_ancientFortunesZeus",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_ariana",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_asianBeauty",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_astroLegendsLyraandErion",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_atlanticCityBlackjackGold",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_auroraWilds",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_avalon",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_badmintonHero",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_bananaOdyssey",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_barBarBlackSheep5Reel",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_BarsAndStripes",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_basketballStar",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_basketballStarDeluxe",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_battleRoyale",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_beachBabes",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_beautifulBones",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_bigKahuna",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_bigTop",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_bikiniParty",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_bonusDeucesWild",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_boogieMonsters",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_bookieOfOdds",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_bookOfOz",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_bookOfOzLockNSpin",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_boomPirates",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_breakAway",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_breakAwayDeluxe",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_breakAwayLuckyWilds",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_breakDaBank",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_breakDaBankAgain",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_breakDaBankAgainRespin",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_bridesmaids",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_bullseyeGameshow",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_burningDesire",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_bushTelegraph",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_bustTheBank",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_candyDreams",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_carnaval",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_cashapillar",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_cashCrazy",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_cashoccino",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_cashOfKingdoms",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_CashSplash5Reel",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_cashville",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_castleBuilder2",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_centreCourt",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_classic243",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_coolBuck5Reel",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_coolWolf",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_couchPotato",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_crazyChameleons",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_cricketStar",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_CrystalRift",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_deckTheHalls",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_decoDiamonds",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_deucesWild",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_diamondEmpire",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_dolphinCoast",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_dolphinQuest",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_doubleDoubleBonus",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_doubleWammy",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_dragonDance",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_dragonShard",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_dragonz",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_dreamDate",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_eaglesWings",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_emotiCoins",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_emperorOfTheSea",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_europeanBlackjackGold",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_europeanRoulette",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_exoticCats",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_fishParty",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_footballStar",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_forbiddenThrone",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_fortuneGirl",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_fortunium",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_frozenDiamonds",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_fruitBlast",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_fruitVSCandy",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_galaxyGlider",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_gemsOdyssey",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_giantRiches",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_girlsWithGunsJungleHeat",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_gnomeWood",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_goldenEra",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_goldenPrincess",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_goldFactory",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_gopherGold",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_halloween",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_halloweenies",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_HappyHolidays",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_happyMonsterClaw",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_harveys",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_highlander",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_highSociety",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_hitman",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_hollyJollyPenguins",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_HoundHotel",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_huangdiTheYellowEmperor",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_immortalRomance",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_isis",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_jacksOrBetter",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_jewelQuestRiches",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_jungleJimElDorado",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_jurassicWorld",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_karaokeParty",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_kathmandu",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_kingsOfCash",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_kingTusk",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_KittyCabana",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_ladiesNite",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_ladyInRed",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_laraCroftTemplesAndTombs",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_legendKeno",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_LegendOftheMoonLovers",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_lifeOfRiches",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_lionsPride",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_loaded",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_lostVegas",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_luchaLegends",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_luckyfirecracker",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_luckyKoi",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_luckyLeprechaun",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_luckyLittleGods",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_luckyTwins",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_luckyZodiac",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_madHatters",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_magicOfSahara",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_MajorMillions5Reel",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_maxDamageArcade",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_mayanPrincess",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_megaMoneyMultiplier",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_megaMoneyRush",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_MegaMoolah",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_mermaidsMillions",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_mobyDickOnlineSlot",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_monsterBlas",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_monsterWheels",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_munchkins",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_mysticDreams",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_oinkCountryLove",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_ourDaysA",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_partyIsland",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_peekABoo5Reel",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_petsGoWild",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_pistoleras",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_playboy",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_playboyGold",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_playboyGoldJackpots",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_pokeTheGuy",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_pollenParty",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_prettyKitty",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_purePlatinum",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_queenOfTheCrystalRays",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_rabbitinthehat",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_reelGems",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_reelSpinner",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_reelStrike",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_ReelTalent",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_reelThunder",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_relicSeekers",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_retroReels",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_retroReelsDiamondGlitz",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_retroReelsExtremeHeat",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_rhymingReelsGeorgiePorgie",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_rhymingReelsHeartsAndTarts",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_rivieraRiches",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_robinOfSherwoodOnlineSlot",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_romanovRiches",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_RubyTombRaiderII",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_rugbyStar",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_santaPaws",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_santasWildRide",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_scrooge",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_secretAdmirer",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_secretRomance",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_shanghaiBeauty",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_sherlockOfLondonOnlineSlot",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_shogunofTime",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_shoot",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_showdownSaloon",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_silverFang",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_silverLioness4x",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_sixAcrobats",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_soManyMonsters",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_soMuchCandy",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_soMuchSushi",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_springBreak",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_stardust",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_starlightKiss",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_stashOfTheTitans",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_sterlingSilver",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_sugarParade",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_summerHoliday",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_summertime",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_sunQuest",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_sunTide",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_supeItUp",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_sureWin",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_tallyHo",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_tarzan",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_tastyStreet",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_theFinerReelsOfLife",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_theGrandJourney",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_theGreatAlbini",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_theHeatIsOn",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_thePhantomOfTheOpera",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_theRatPack",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_theTwistedCircus",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_thunderstruck",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_thunderstruck2",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_tigersEye",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_tikiVikings",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_titansOfTheSunHyperion",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_titansOfTheSunTheia",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_tombRaider",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_treasureNile",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_treasurePalace",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_treasuresOfLionCity",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_untamedGiantPanda",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_vegasStripBlackjackGold",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_villagePeople",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_vinylCountdown",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_voila",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_wackyPanda",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_whatAHoot",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_wickedTalesDarkRed",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_wildCatchNew",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_wildOrient",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_wildScarabs",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_winSumDimSum",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "MGSMG_zombieHoard",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 15,
+      "GameCode": "Tournament",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGbaccarat-deluxe",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGbikini-paradise",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGblackjack-eu",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGblackjack-us",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGcai-shen-wins",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGcandy-burst",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGcaptains-bounty",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGcards-hi-lo",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGcircus-delight",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGdiaochan",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGdice-hi-lo",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGdim-sum-mania",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGdouble-fortune",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGdragon-hatch",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGdragon-legend",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGdragon-tiger-luck",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGdreams-of-macau",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGemperors-favour",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGfive-num-hi-lo",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGflirting-scholar",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGfortune-gods",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGfortune-mouse",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGfortune-tree",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGganesha-fortune",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGganesha-gold",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGgem-saviour",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGgem-saviour-conquest",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGgem-saviour-sword",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGgenies-wishes",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGhip-hop-panda",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGhood-wolf",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGhotpot",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGjoker-wild",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGjourney-to-the-wealth",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGjungle-delight",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGlegend-of-hou-yi",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGleprechaun-riches",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGmahjong-ways",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGmahjong-ways2",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGmedusa",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGmedusa2",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGmr-hallow-win",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGmuay-thai-champion",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGninja-vs-samurai",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGpeas-fairy",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGphoenix-rises",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGpiggy-gold",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGplushie-frenzy",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGprosperity-lion",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGreel-love",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGrestaurant-craze",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGsantas-gift-rush",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGshaolin-soccer",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGsteam-punk",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGsummon-conquer",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGsymbols-of-egypt",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGthai-river",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGthe-great-icescape",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGthree-monkeys",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGtiki-go",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGtomb-of-treasure",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGtreasures-aztec",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGwild-fireworks",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGwild-inferno",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGwin-win-won",
+      "GameCategory": 2,
+      "Enable": true
+    },
+    {
+      "GamePlatform": 16,
+      "GameCode": "PGwizdom-wonders",
+      "GameCategory": 2,
+      "Enable": true
+    }
+  ]
+}
