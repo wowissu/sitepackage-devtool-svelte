@@ -2,6 +2,7 @@
   "name": "sitepackage-vscode-devtool",
   "displayName": "sitepackage.vscode.devtool",
   "description": "包網前端開發工具",
+  "publisher": "yd-sitepackage-devtool",
   "version": "1.0.0",
   "scripts": {
     "build": "rollup -c",
@@ -11,7 +12,6 @@
   "engines": {
     "vscode": "^1.51.0"
   },
-  "enableProposedApi": true,
   "categories": [
     "Other"
   ],
@@ -24,11 +24,13 @@
     "@rollup/plugin-json": "^4.1.0",
     "@rollup/plugin-node-resolve": "^11.0.0",
     "@rollup/plugin-typescript": "^8.1.1",
+    "@sveltejs/eslint-config": "sveltejs/eslint-config",
     "@tsconfig/svelte": "^1.0.10",
     "@types/node": "^14.14.25",
     "@types/vscode": "^1.51.0",
     "axios-mock-adapter": "^1.19.0",
     "carbon-components-svelte": "^0.27.0",
+    "eslint": "^7.19.0",
     "rollup": "^2.3.4",
     "rollup-plugin-css-only": "^3.1.0",
     "rollup-plugin-livereload": "^2.0.0",
