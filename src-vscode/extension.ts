@@ -3,7 +3,8 @@
 import type * as vscode from 'vscode';
 import AppTreeProvider from './providers/provider';
 import { App } from './app';
-import PlatformPanel from './panels/platform.panel';
+import GamePanel from './panels/game.panel';
+import SlotPanel from './panels/slot.panel';
 
 // this method is called when your extension is activated
 // your extension is activated the very first time the command is executed
@@ -12,7 +13,8 @@ export function activate(context: vscode.ExtensionContext) {
   const app = new App(context);
 
   app.init().then(() => {
-    PlatformPanel.use(app);
+    GamePanel.use(app);
+    SlotPanel.use(app);
     AppTreeProvider.use(app);
   });
 }

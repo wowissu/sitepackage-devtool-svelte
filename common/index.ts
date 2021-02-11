@@ -1,0 +1,1 @@
+export type SiteconfigImage = string | { require: string };

@@ -1,9 +1,10 @@
 import { writable, derived } from 'svelte/store';
 import type { GamePlatformCategoryEquipped } from '@/common/game.common';
+import { createSrc } from '@/src/stores/common.store';
 
 export const game = createGame();
 export const prefix = writable<string>('');
-export const gameSrc = createGameSrc();
+export const gameSrc = createSrc(game);
 
 function createGame() {
   const { subscribe, set, update } = writable<GamePlatformCategoryEquipped>({
@@ -21,18 +22,4 @@ function createGame() {
     set: (val: GamePlatformCategoryEquipped) => set(val),
     setImage: (val: any) => update(g => ({ ...g, image: val })),
   };
-}
-
-function createGameSrc() {
-  const defVal = '';
-
-  return derived([game, prefix], ([$game, $prefix], set) => {
-    if ($game && $game.image) {
-      const src = (typeof $game.image === 'string' ? $game.image : $game.image?.require).replace('@siteconfig/', $prefix.endsWith('/') ? $prefix : `${$prefix}/`);
-      console.log(src);
-      set(src);
-    } else {
-      set(defVal);
-    }
-  }, defVal);
 }

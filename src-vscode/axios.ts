@@ -1,7 +1,8 @@
 import * as vscode from 'vscode';
 import axios, { AxiosError, AxiosInstance, AxiosRequestConfig } from 'axios';
-import type { GameCategory, GamePlatform, GamePlatformCategory, GamePlatformCategoryEquipped, WebsitePattern } from '@/common/game.common';
+import type { GameCategory, GamePlatform, GamePlatformCategory, GamePlatformCategoryEquipped, SlotGame, SlotGameEquipped, WebsitePattern } from '@/common/game.common';
 import { useMock } from './axios.mock';
+import _ from 'lodash';
 
 export class BackstageApi {
   public axios!: AxiosInstance;
@@ -31,12 +32,13 @@ export class BackstageApi {
 
   public getCommonData() {
     return this.axios.post<{
-      'WebsitePatternList': WebsitePattern[],
-      'GamePlatformCategoryList': GamePlatformCategory[],
-      'GamePlatformList': GamePlatform[],
-      'GameCategoryList': GameCategory[]
+      WebsitePatternList: WebsitePattern[],
+      GamePlatformCategoryList: GamePlatformCategory[],
+      GamePlatformList: GamePlatform[],
+      GameCategoryList: GameCategory[],
+      SlotGameList: SlotGame[],
     }>(this.url.GetCommonData).then((res) => {
-      const { GameCategoryList, GamePlatformList, GamePlatformCategoryList } = res.data;
+      const { GameCategoryList, GamePlatformList, GamePlatformCategoryList, SlotGameList } = res.data;
 
       const GameCategoryMap = GameCategoryList.reduce<Record<number, GameCategory>>((acc, row) => {
         acc[row.ID] = row;
@@ -67,12 +69,26 @@ export class BackstageApi {
         };
       });
 
+      const SlotGameEqList = SlotGameList.map<SlotGameEquipped>((slot) => ({
+        ...slot,
+        title: '',
+        url: '',
+        image: '',
+        isHot: false,
+        enable: false
+      }));
+
+      const SlotGameEqMap = _.keyBy(SlotGameEqList, 'GameCode');
+
       return {
         GamePlatformCategoryList: list,
         GameCategoryMap,
         GamePlatformMap,
         GameCategoryList,
-        GamePlatformList
+        GamePlatformList,
+        SlotGameList,
+        SlotGameEqList,
+        SlotGameEqMap
       };
     });
   }

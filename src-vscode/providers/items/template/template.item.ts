@@ -1,9 +1,10 @@
 import * as vscode from 'vscode';
 import { App } from '../../../app';
 import { CommonTreeItem, CommonTreeItemContext } from '../common.item';
-import { GameListItem } from '../game/game.list.item';
+import GameListItem from '../game/game.list.item';
 import type { TemplateListItem } from './template.list.item';
 import jp from 'jsonpath/jsonpath.js';
+import { TextDecoder } from 'util';
 
 const fs = vscode.workspace.fs
 

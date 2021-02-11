@@ -1,6 +1,6 @@
 import * as vscode from 'vscode';
 import { BackstageApi } from './axios';
-import type { GameCategory, GamePlatform, GamePlatformCategoryEquipped } from '@/common/game.common';
+import type { GameCategory, GamePlatform, GamePlatformCategoryEquipped, SlotGame, SlotGameEquipped } from '@/common/game.common';
 
 export const colors = {
   TemplateIcon: new vscode.ThemeColor('sitepackage.colors.templateIcon'),
@@ -11,7 +11,8 @@ export const colors = {
 
 enum Commands {
   OpenFile = 'extension.openFile',
-  OpenPlatformWebview = 'extension.openPlatformWebview'
+  OpenGameWebview = 'extension.OpenGameWebview',
+  OpenSlotWebview = 'extension.OpenSlotWebview'
 }
 
 export class App {
@@ -31,6 +32,11 @@ export class App {
   public GameCategoryList: GameCategory[] = [];
   public GamePlatformMap: Record<GamePlatform['ID'], GamePlatform> = {};
   public GameCategoryMap: Record<GameCategory['ID'], GameCategory> = {};
+  public SlotGameList: SlotGame[] = [];
+  public SlotGameEqList: SlotGameEquipped[] = [];
+  public SlotGameEqMap: Record<SlotGameEquipped['GameCode'], SlotGameEquipped> = {};
+
+  public Slots
 
   constructor(public extContext: vscode.ExtensionContext) {
     this.ExtensionUri = extContext.extensionUri;
@@ -43,6 +49,14 @@ export class App {
 
   public init() {
     return this.injectCommonData();
+  }
+
+  public resolveExtensionUri(...p: string[]) {
+    return vscode.Uri.joinPath(this.ExtensionUri, ...p);
+  }
+
+  public resolvePublicUri(...p: string[]) {
+    return this.resolveExtensionUri('public', ...p);
   }
 
   public resolveRootUri(...p: string[]) {
@@ -72,6 +86,9 @@ export class App {
       this.GamePlatformCategoryList = data.GamePlatformCategoryList;
       this.GamePlatformList = data.GamePlatformList;
       this.GameCategoryList = data.GameCategoryList;
+      this.SlotGameList = data.SlotGameList;
+      this.SlotGameEqList = data.SlotGameEqList;
+      this.SlotGameEqMap = data.SlotGameEqMap;
     });
   }
 }

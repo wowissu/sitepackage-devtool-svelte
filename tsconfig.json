@@ -8,7 +8,8 @@
       "@/*": ["*"],
       "@src/*": ["src/*"],
       "@vscode/*": ["src-vscode/*"],
-    }
+    },
+    "lib": ["esnext", "dom"]
   },
   "extends": "@tsconfig/svelte/tsconfig.json",
   "include": ["src/**/*", "src/node_modules", "src-vscode/**/*"],

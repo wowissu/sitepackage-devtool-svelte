@@ -1,8 +1,9 @@
 export enum MsgEnum {
-  PlatformOnMount = 'PlatformOnMount',
-  PlatformPostGame = 'PlatformPostGame',
-  PlatformOnSubmit = 'PlatformOnSubmit',
-  PlatformOnError = 'PlatformOnError',
-  PlatformShowSaveDialog = 'PlatformShowSaveDialog',
-  PlatformImageSaved = 'PlatformImageSaved',
+  OnMount = 'OnMount',
+  PostData = 'PostData',
+  SaveData = 'SaveData',
+  OnSubmit = 'OnSubmit',
+  OnError = 'OnError',
+  ShowSaveDialog = 'ShowSaveDialog',
+  ImageSaved = 'ImageSaved',
 }

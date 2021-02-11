@@ -2,12 +2,11 @@ import * as vscode from 'vscode';
 import { App } from '../../../app';
 import { CommonTreeItem, CommonTreeItemContext } from '../common.item';
 import type { TemplateItem } from '../template/template.item';
-import { GameCategoryItem } from './game.category.item';
+import GameCategoryItem from './game.category.item'
 
 
-export class GameListItem extends CommonTreeItem<TemplateItem> {
+export default class GameListItem extends CommonTreeItem<TemplateItem> {
   public contextValue = 'games';
-  public jpath = '$.games';
   public iconPath = new vscode.ThemeIcon('symbol-operator', App.Colors.GamesIcon);
 
   constructor(

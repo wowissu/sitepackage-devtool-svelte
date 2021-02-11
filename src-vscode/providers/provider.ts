@@ -5,6 +5,7 @@ import type { CommonTreeItem } from './items/common.item';
 import { TemplateItem } from './items/template/template.item';
 import { TemplateListItem } from './items/template/template.list.item';
 import { TemplateGamesItem } from './items/template/template.games.item';
+import { TemplateSlotsItem } from './items/template/template.slots.item';
 
 export default class AppTreeProvider implements vscode.TreeDataProvider<CommonTreeItem> {
 
@@ -46,7 +47,8 @@ export default class AppTreeProvider implements vscode.TreeDataProvider<CommonTr
       if (this._pathExists(this.templateUri)) {
         return [
           new TemplateListItem({ parent: undefined, provider: this }, this.templateUri),
-          new TemplateGamesItem({ parent: undefined, provider: this }, this.app.resolveCommonUri('siteconfig.games.json'))
+          new TemplateGamesItem({ parent: undefined, provider: this }, this.app.resolveCommonUri('siteconfig.games.json')),
+          new TemplateSlotsItem({ parent: undefined, provider: this }, this.app.resolveCommonUri('siteconfig.slots.json'))
         ];
       } else {
         vscode.window.showInformationMessage('conf/ is empty');

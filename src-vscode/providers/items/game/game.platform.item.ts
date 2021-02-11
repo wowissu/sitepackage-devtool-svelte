@@ -2,18 +2,18 @@ import * as vscode from 'vscode';
 import jp from 'jsonpath/jsonpath.js';
 import { App } from '../../../app';
 import type { GamePlatformCategoryEquipped } from '@/common/game.common';
-import type { GameCategoryItem } from './game.category.item';
+import type GameCategoryItem from './game.category.item';
 import { CommonTreeItem, CommonTreeItemContext } from '@/src-vscode/providers/items/common.item';
 
 const fs = vscode.workspace.fs
 
-export class GamePlatformItem<P = GameCategoryItem> extends CommonTreeItem<P> {
+export default class GameItem<P = GameCategoryItem> extends CommonTreeItem<P> {
   public targetUri!: vscode.Uri;
   public jpath!: string;
   public contextValue = 'game.platform';
   public iconPath = new vscode.ThemeIcon('symbol-misc', App.Colors.GameIcon);
   public readonly command = {
-    command: App.Commands.OpenPlatformWebview,
+    command: App.Commands.OpenGameWebview,
     title: '',
     arguments: [this]
   };

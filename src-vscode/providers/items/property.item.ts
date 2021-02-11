@@ -1,7 +1,7 @@
 import * as vscode from 'vscode';
 import * as jp from 'jsonpath';
 import { CommonTreeItem } from './common.item';
-import { TextEncoder } from 'util';
+import { TextDecoder, TextEncoder } from 'util';
 
 const fs = vscode.workspace.fs
 

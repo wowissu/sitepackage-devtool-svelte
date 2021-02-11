@@ -26,6 +26,7 @@
     "@rollup/plugin-typescript": "^8.1.1",
     "@sveltejs/eslint-config": "sveltejs/eslint-config",
     "@tsconfig/svelte": "^1.0.10",
+    "@types/lodash": "^4.14.168",
     "@types/node": "^14.14.25",
     "@types/vscode": "^1.51.0",
     "axios-mock-adapter": "^1.19.0",
@@ -48,6 +49,7 @@
     "axios": "^0.21.1",
     "carbon-components": "^10.28.0",
     "jsonpath": "^1.1.0",
+    "lodash": "^4.17.20",
     "sass": "^1.32.6",
     "sirv-cli": "^1.0.0",
     "svelte-check": "^1.1.32"

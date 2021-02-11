@@ -73,45 +73,27 @@ const commonPlugins = [
 ];
 
 export default [
-  {
-    input: 'src/main.ts',
-    output: [
-      {
-        sourcemap: true,
-        format: 'iife',
-        name: 'main',
-        file: 'public/build/main.js'
+  ...['main', 'game', 'slot'].map(name => {
+    return {
+      input: `src/${name}.ts`,
+      output: [
+        {
+          sourcemap: true,
+          format: 'iife',
+          name,
+          file: `public/build/${name}.js`
+        }
+      ],
+      plugins: [
+        ...commonPlugins,
+        ...sveltePlugins,
+        css({ output: `${name}.css` })
+      ],
+      watch: {
+        clearScreen: false
       }
-    ],
-    plugins: [
-      ...commonPlugins,
-      ...sveltePlugins,
-      css({ output: 'main.css' })
-    ],
-    watch: {
-      clearScreen: false
     }
-  },
-  {
-    input: 'src/platform.ts',
-    output: [
-      {
-        sourcemap: true,
-        format: 'iife',
-        name: 'platform',
-        file: 'public/build/platform.js'
-      }
-    ],
-    plugins: [
-      ...commonPlugins,
-      ...sveltePlugins,
-      css({ output: 'platform.css' }),
-      // terser()
-    ],
-  watch: {
-      clearScreen: false
-    }
-  },
+  }),
   {
     input: 'src-vscode/extension.ts',
     output: [
