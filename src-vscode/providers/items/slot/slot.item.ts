@@ -28,7 +28,7 @@ export default class SlotItem<P = TemplateItem> extends CommonTreeItem<P> {
 
     this.tooltip = slot.GameCode;
     this.targetUri = context.template.originUri;
-    this.jpath = `$.slots.${slot.GameCode}`;
+    this.jpath = jp.stringify(['$', 'slots', slot.GameCode]);
 
     // 訪問檔案中的 game
     this.slot = Object.assign({}, this.slot, jp.value(context.template.json, this.jpath));

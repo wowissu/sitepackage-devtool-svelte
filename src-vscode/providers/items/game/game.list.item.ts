@@ -6,7 +6,6 @@ import GameCategoryItem from './game.category.item'
 
 
 export default class GameListItem extends CommonTreeItem<TemplateItem> {
-  public contextValue = 'games';
   public iconPath = new vscode.ThemeIcon('symbol-operator', App.Colors.GamesIcon);
 
   constructor(

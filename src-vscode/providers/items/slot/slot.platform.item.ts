@@ -1,6 +1,6 @@
 import * as vscode from 'vscode';
 import { App } from '../../../app';
-import type { GamePlatform, SlotGameEquipped } from '@/common/game.common';
+import type { GamePlatform } from '@/common/game.common';
 import { CommonTreeItem } from '../common.item';
 import type SlotListItem from './slot.list.item';
 import SlotItem from './slot.item';

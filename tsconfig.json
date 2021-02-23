@@ -4,6 +4,7 @@
     "moduleResolution": "node",
     "types": ["svelte", "node"],
     "resolveJsonModule": true,
+    "strictNullChecks": true,
     "paths": {
       "@/*": ["*"],
       "@src/*": ["src/*"],

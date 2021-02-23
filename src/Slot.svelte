@@ -38,7 +38,6 @@ function showSaveDialog() {
 </Header>
 
 <Content>
-  {JSON.stringify($slot)}
   <Grid>
     <Row>
       <Column aspectRatio="4x3" >

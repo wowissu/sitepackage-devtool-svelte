@@ -27,7 +27,7 @@ export default class GameItem<P = GameCategoryItem> extends CommonTreeItem<P> {
 
     this.tooltip = game.GamePlatform.toString();
     this.targetUri = context.template.originUri;
-    this.jpath = `$.games.${game.id}`;
+    this.jpath = jp.stringify(['$', 'games', game.id]);
 
     // 訪問檔案中的 game
     this.game = Object.assign({}, this.game, jp.value(context.template.json, this.jpath));
